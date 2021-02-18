@@ -1,1 +1,7 @@
 JAVA Programs.
+
+Chat : a client server app to exchange messages (i.e, chat) on lan.
+Desktop Security Tool : A program to log (screenshot user activity).
+First Web : Learning java web development.
+Student query : a web project for student query system.  [Work in progress]
+tpo : tpo management system.  [Work in Progress]
