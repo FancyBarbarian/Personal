@@ -5,3 +5,6 @@ Desktop Security Tool : A program to log (screenshot user activity).
 First Web : Learning java web development.
 Student query : a web project for student query system.  [Work in progress]
 tpo : tpo management system.  [Work in Progress]
+
+projects are in zip file.
+projects are made in Netbeans IDE.
